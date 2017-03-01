@@ -1,4 +1,4 @@
-The is a chat application built using the [Java WebSocket API (JSR 356)](jcp.org/en/jsr/detail?id=356)a canonical use case for WebSockets. This is meant to help understand the API usage and try it hands on (this is not a full-blown chat service)
+The is a chat application (a canonical use case for WebSocket) built using the [Java WebSocket API (JSR 356)](jcp.org/en/jsr/detail?id=356). This is meant to help understand the API usage and try it hands on (this is not a full-blown chat service)
 
 ## Components
 
